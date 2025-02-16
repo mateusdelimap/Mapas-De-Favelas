@@ -20,9 +20,9 @@ Aqui estão todos os mapas disponíveis. Cada mapa tem seu próprio ramo com det
    - Descrição: Um mapa detalhado de uma favela localizada na icônica Ponte de Las Venturas, perfeito para servidores de RP ou PVP.
    - [Acessar link do mapa](https://github.com/mateusdelimap/mapas/tree/main/Mapa-1) <!-- Link para o ramo deste mapa -->
 
-### 2. **Cidade Moderna**
-   - Descrição: Um mapa urbano com arranha-céus, ruas movimentadas e muito mais. Ideal para servidores de roleplay.
-   - [Acessar ramo do mapa](#) <!-- Link para o ramo deste mapa -->
+### 2. **Favela De Gana**
+   - Favela pequena, ideal para base de facção, com campo de futebol, loja 24/7 e um espaço para festas, localizada     em um excelente ponto de Las Venturas.
+   - [Acessar Link do mapa](https://github.com/mateusdelimap/mapas/tree/main/Mapa-2) <!-- Link para o ramo deste mapa -->
 
 ### 3. **Arena de Batalha**
    - Descrição: Um mapa compacto e intenso, projetado para batalhas PVP rápidas e emocionantes.
@@ -45,7 +45,7 @@ Aqui estão todos os mapas disponíveis. Cada mapa tem seu próprio ramo com det
 ## 📞 Contato
 
 - **Canal no YouTube**: [MateusLima](https://www.youtube.com/@limamaper)
-- **Discord**: [Entre no nosso Discord](#) <!-- Adicione o link do Discord -->
+- **Discord**: [Entre no nosso Discord](https://discord.gg/JXebyAwmhY) <!-- Adicione o link do Discord -->
 
 ---
 

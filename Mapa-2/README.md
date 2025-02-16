@@ -8,7 +8,7 @@ Adicione um toque especial ao seu servidor com este incrível mapa de favela loc
 
 Faça o download do mapa agora mesmo e transforme o visual do seu servidor:
 
-[Clique aqui para baixar](https://github.com/mateusdelimap/mapas/blob/main/Mapa-1/mapasfavelalvponte) <!-- Adicione o link de download aqui -->
+[Clique aqui para baixar](https://github.com/mateusdelimap/mapas/tree/main/Mapa-2)
 
 ---
 
@@ -24,7 +24,7 @@ Faça o download do mapa agora mesmo e transforme o visual do seu servidor:
 
 Confira o vídeo de apresentação do mapa e veja como ele pode transformar seu servidor:
 
-[Assistir no YouTube](https://www.youtube.com/watch?v=GEdCx7sKnAU) <!-- Adicione o link do vídeo aqui -->
+[Assistir no YouTube](https://youtu.be/gNvjgPARzJg)
 
 ---
 
@@ -34,10 +34,15 @@ Gostou do mapa? Deixe seu **like**, **comente** o que achou e **compartilhe** co
 
 ---
 
+## 🚀 Onde vocês querem novas favelas?
+
+Comentem o local que gostariam de ver e, no próximo vídeo, vou trazer uma favela inspirada no estilo MTA no lugar sugerido! 🚀  
+
+
 ## 📞 Contato
 
 - **Canal no YouTube**: [MateusLima](https://www.youtube.com/@limamaper)
-- **Discord**: [Entre no nosso Discord](https://discord.gg/JXebyAwmhY) <!-- Adicione o link do Discord -->
+- **Discord**: [Entre no nosso Discord](https://discord.gg/JXebyAwmhY)
 
 ---
 
