@@ -8,7 +8,7 @@ Favela pequena, ideal para base de facção, com campo de futebol, loja 24/7 e u
 
 Faça o download do mapa agora mesmo e transforme o visual do seu servidor:
 
-[Clique aqui para baixar](https://github.com/mateusdelimap/mapas/tree/main/Mapa-2)
+[Clique aqui para baixar](https://github.com/mateusdelimap/mapas/blob/main/Mapa-2/favelinhalvgana)
 
 ---
 
