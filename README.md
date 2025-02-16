@@ -26,7 +26,7 @@ Aqui estão todos os mapas disponíveis. Cada mapa tem seu próprio ramo com det
 
 ### 3. **Favela do Bruxo**
    - Favela no estilo FiveM para SAMP, com uma base inspirada na Elements e um campo de futebol. Ideal para servir como ponto de desmanche de veículos, oferecendo um ambiente detalhado e imersivo para diversas atividades.
-   - [Acessar ramo do mapa](https://github.com/mateusdelimap/Mapas-De-Favelas/tree/main/Mapa-3) <!-- Link para o ramo deste mapa -->
+   - [Acessar link do mapa](https://github.com/mateusdelimap/Mapas-De-Favelas/tree/main/Mapa-3) <!-- Link para o ramo deste mapa -->
 
 ### 4. **Zona Rural**
    - 
