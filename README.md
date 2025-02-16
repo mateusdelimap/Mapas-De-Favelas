@@ -24,12 +24,12 @@ Aqui estão todos os mapas disponíveis. Cada mapa tem seu próprio ramo com det
    - Favela pequena, ideal para base de facção, com campo de futebol, loja 24/7 e um espaço para festas, localizada     em um excelente ponto de Las Venturas.
    - [Acessar Link do mapa](https://github.com/mateusdelimap/mapas/tree/main/Mapa-2) <!-- Link para o ramo deste mapa -->
 
-### 3. **Arena de Batalha**
-   - Descrição: Um mapa compacto e intenso, projetado para batalhas PVP rápidas e emocionantes.
-   - [Acessar ramo do mapa](#) <!-- Link para o ramo deste mapa -->
+### 3. **Favela do Bruxo**
+   - Favela no estilo FiveM para SAMP, com uma base inspirada na Elements e um campo de futebol. Ideal para servir como ponto de desmanche de veículos, oferecendo um ambiente detalhado e imersivo para diversas atividades.
+   - [Acessar ramo do mapa](https://github.com/mateusdelimap/Mapas-De-Favelas/tree/main/Mapa-3) <!-- Link para o ramo deste mapa -->
 
 ### 4. **Zona Rural**
-   - Descrição: Um cenário tranquilo e realista de uma zona rural, com fazendas, estradas e paisagens naturais.
+   - 
    - [Acessar ramo do mapa](#) <!-- Link para o ramo deste mapa -->
 
 ---

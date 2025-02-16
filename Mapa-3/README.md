@@ -8,7 +8,7 @@ Favela no estilo FiveM para SAMP, com uma base inspirada na Elements e um campo 
 
 Faça o download do mapa agora mesmo e transforme o visual do seu servidor:
 
-[Clique aqui para baixar](https://github.com/mateusdelimap/mapas/blob/main/Mapa-2/favelinhalvgana)
+[Clique aqui para baixar](https://github.com/mateusdelimap/Mapas-De-Favelas/blob/main/Mapa-3/FavelaDoBruxo)
 
 ---
 
