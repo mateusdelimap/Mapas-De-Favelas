@@ -1,6 +1,6 @@
-# 🎮 Mapa de Favela na Ponte de Las Venturas
+# 🎮 Mapa de Favela de Gana em Las Venturas
 
-Adicione um toque especial ao seu servidor com este incrível mapa de favela localizado na icônica Ponte de Las Venturas! Ideal para servidores de RP ou PVP, este mapa foi criado para proporcionar uma experiência única e realista.
+Favela pequena, ideal para base de facção, com campo de futebol, loja 24/7 e um espaço para festas, localizada em um excelente ponto de Las Venturas.
 
 ---
 
