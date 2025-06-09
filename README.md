@@ -28,9 +28,12 @@ Aqui estão todos os mapas disponíveis. Cada mapa tem seu próprio ramo com det
    - Favela no estilo FiveM para SAMP, com uma base inspirada na Elements e um campo de futebol. Ideal para servir como ponto de desmanche de veículos, oferecendo um ambiente detalhado e imersivo para diversas atividades.
    - [Acessar link do mapa](https://github.com/mateusdelimap/Mapas-De-Favelas/tree/main/Mapa-3) <!-- Link para o ramo deste mapa -->
 
-### 4. **Zona Rural**
-   - 
-   - [Acessar ramo do mapa](#) <!-- Link para o ramo deste mapa -->
+### 4. **Favela Manguito**
+   - 📌 Favela Top — Perfeita pro seu servidor de SA-MP!
+   Essa favela foi criada com um estilo inspirado no FiveM, trazendo um visual mais moderno e diferenciado.
+   Mesmo sendo no SA-MP, ela entrega uma vibe única — lembrando que, claro, há algumas limitações do próprio jogo, mas nada que tire a qualidade do mapa!
+
+   - [Acessar ramo do mapa](https://github.com/mateusdelimap/Mapas-De-Favelas/tree/main/Mapa-4) <!-- Link para o ramo deste mapa -->
 
 ---
 
@@ -45,7 +48,7 @@ Aqui estão todos os mapas disponíveis. Cada mapa tem seu próprio ramo com det
 ## 📞 Contato
 
 - **Canal no YouTube**: [MateusLima](https://www.youtube.com/@limamaper)
-- **Discord**: [Entre no nosso Discord](https://discord.gg/JXebyAwmhY) <!-- Adicione o link do Discord -->
+- **Discord**: [Entre no nosso Discord](https://discord.gg/4eSzEHJywg) <!-- Adicione o link do Discord -->
 
 ---
 
