@@ -26,7 +26,7 @@ Faça o download do mapa agora mesmo e transforme o visual do seu servidor:
 
 Confira o vídeo de apresentação do mapa e veja como ele pode transformar seu servidor:
 
-[Assistir no YouTube](https://youtu.be/Y0oYCFVzSi8)
+[Assistir no YouTube](https://www.youtube.com/watch?v=bHT1xqUNHiM)
 
 ---
 
