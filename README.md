@@ -34,6 +34,7 @@ Aqui estão todos os mapas disponíveis. Cada mapa tem seu próprio ramo com det
    Mesmo sendo no SA-MP, ela entrega uma vibe única — lembrando que, claro, há algumas limitações do próprio jogo, mas nada que tire a qualidade do mapa!
 
    - [Acessar ramo do mapa](https://github.com/mateusdelimap/Mapas-De-Favelas/tree/main/Mapa-4) <!-- Link para o ramo deste mapa -->
+   - [Preview da favela na Manguito](https://github.com/mateusdelimap/Mapas-De-Favelas/blob/main/Mapa-4/sa-mp-108.png)
 
 ---
 
