@@ -40,7 +40,7 @@ Gostou do mapa? Deixe seu **like**, **comente** o que achou e **compartilhe** co
 ## 📞 Contato
 
 - **Canal no YouTube**: [MateusLima](https://www.youtube.com/@limamaper)
-- **Discord**: [Entre no nosso Discord](https://discord.gg/4eSzEHJywg)
+- **Discord**: [Entre no nosso Discord](https://discord.gg/u2PUJGxHhC)
 
 ---
 
