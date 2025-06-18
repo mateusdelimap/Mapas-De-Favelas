@@ -49,7 +49,7 @@ Aqui estão todos os mapas disponíveis. Cada mapa tem seu próprio ramo com det
 ## 📞 Contato
 
 - **Canal no YouTube**: [MateusLima](https://www.youtube.com/@limamaper)
-- **Discord**: [Entre no nosso Discord](https://discord.gg/4eSzEHJywg) <!-- Adicione o link do Discord -->
+- **Discord**: [Entre no nosso Discord](https://discord.gg/u2PUJGxHhC) <!-- Adicione o link do Discord -->
 
 ---
 

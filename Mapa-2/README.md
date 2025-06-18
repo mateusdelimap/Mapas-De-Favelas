@@ -42,7 +42,7 @@ Comentem o local que gostariam de ver e, no próximo vídeo, vou trazer uma fave
 ## 📞 Contato
 
 - **Canal no YouTube**: [MateusLima](https://www.youtube.com/@limamaper)
-- **Discord**: [Entre no nosso Discord](https://discord.gg/JXebyAwmhY)
+- **Discord**: [Entre no nosso Discord](https://discord.gg/u2PUJGxHhC)
 
 ---
 
